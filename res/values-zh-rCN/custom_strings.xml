@@ -69,5 +69,9 @@
     <string name="hide_overflow_button_summary">在应用程序中隐藏溢出菜单</string>
     <string name="hide_overflow_button_toast">改动可能需要在应用程序重新启动后生效</string>
 
+    <!-- Headset icon switch -->
+    <string name="show_headset_icon_title">显示耳机图标</string>
+    <string name="show_headset_icon_summary">如果连接了耳机，则显示耳机图标</string>
+
 </resources>
 

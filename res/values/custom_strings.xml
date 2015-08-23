@@ -69,5 +69,9 @@
     <string name="hide_overflow_button_summary">Hide the 3-dot overflow menu button within apps</string>
     <string name="hide_overflow_button_toast">Changes may not be visible until apps are restarted</string>
 
+    <!-- Headset icon switch -->
+    <string name="show_headset_icon_title">Headset icon</string>
+    <string name="show_headset_icon_summary">Shows icon when headsets are connected.</string>
+
 </resources>
 
