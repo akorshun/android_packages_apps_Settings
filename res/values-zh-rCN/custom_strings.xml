@@ -64,5 +64,10 @@
     <!-- Screenshot sound -->
     <string name="screenshot_sound_title">屏幕截图提示音</string>
 
+    <!-- Hide overflow button -->
+    <string name="hide_overflow_button_title">隐藏溢出菜单</string>
+    <string name="hide_overflow_button_summary">在应用程序中隐藏溢出菜单</string>
+    <string name="hide_overflow_button_toast">改动可能需要在应用程序重新启动后生效</string>
+
 </resources>
 

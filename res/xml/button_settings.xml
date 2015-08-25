@@ -30,6 +30,12 @@
         android:persistent="false"
         settings:advanced="true"/>
 
+    <SwitchPreference
+        android:key="hide_overflow_button"
+        android:title="@string/hide_overflow_button_title"
+        android:summary="@string/hide_overflow_button_summary"
+        android:defaultValue="false" />
+
     <PreferenceCategory
         android:key="navigation_bar_category"
         android:title="@string/navigation_bar_category" >
