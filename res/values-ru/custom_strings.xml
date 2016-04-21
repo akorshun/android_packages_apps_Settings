@@ -40,5 +40,12 @@
     <string name="statusbar_exclamation_marks_display">Отображение восклицательных знаков в строке состояния</string>
     <string name="statusbar_exclamation_marks_desc">Показать или скрыть восклицательные знаки в строке состояния</string>
 
+    <!-- Captive Portal -->
+    <string name="captive_portal_detection">Обнаружение Captive portal</string>
+    <string name="captive_portal_detection_summary">Если отключено, подключение к серверам Google не требуется для обнаружения подключения к данным.</string>	
+    <string name="captive_portal_server">Сервер Captive portal</string>
+    <string name="captive_portal_server_notset">Сервер не установлен</string>
+    <string name="captive_portal_server_explain">Set с. Перезагрузите устройство.</string>
+
 </resources>
 
