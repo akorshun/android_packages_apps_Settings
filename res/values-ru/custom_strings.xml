@@ -35,5 +35,10 @@
     <string name="show_network_traffic_1000">1000 мс</string>
     <string name="show_network_traffic_1500">1500 мс</string>
     <string name="show_network_traffic_2000">2000 мс</string>
+    
+    <!-- exclamation marks -->
+    <string name="statusbar_exclamation_marks_display">Отображение восклицательных знаков в строке состояния</string>
+    <string name="statusbar_exclamation_marks_desc">Показать или скрыть восклицательные знаки в строке состояния</string>
+
 </resources>
 
