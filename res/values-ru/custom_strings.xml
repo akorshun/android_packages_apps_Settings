@@ -20,5 +20,20 @@
     <!-- VPN require lockdown toggle -->
     <string name="vpn_need_password">Требовать пароль</string>
 
+    <!-- Network traffic -->
+    <string name="network_traffic_title">Сетевой трафик</string>
+    <string name="show_network_traffic_state">Монитор трафика в статус баре</string>
+    <string name="show_network_traffic_unit">Еденицы измерения</string>
+    <string name="show_network_traffic_frequency">Интервал обновления</string>
+    <string name="show_network_traffic_disable">Отключено</string>
+    <string name="show_network_traffic_up">Отдача</string>
+    <string name="show_network_traffic_down">Приём</string>
+    <string name="show_network_traffic_all">Приём и Отдача</string>
+    <string name="show_network_traffic_bit">Бит в секунду</string>
+    <string name="show_network_traffic_byte">Байт в секунду</string>
+    <string name="show_network_traffic_500">500 мс</string>
+    <string name="show_network_traffic_1000">1000 мс</string>
+    <string name="show_network_traffic_1500">1500 мс</string>
+    <string name="show_network_traffic_2000">2000 мс</string>
 </resources>
 
