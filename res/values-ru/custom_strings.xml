@@ -37,19 +37,19 @@
     <string name="show_network_traffic_2000">2000 мс</string>
     
     <!-- exclamation marks -->
-    <string name="statusbar_exclamation_marks_display">Отображение восклицательных знаков в строке состояния</string>
+    <string name="statusbar_exclamation_marks_display">Показывать воскл. знаки</string>
     <string name="statusbar_exclamation_marks_desc">Показать или скрыть восклицательные знаки в строке состояния</string>
 
     <!-- Captive Portal -->
     <string name="captive_portal_detection">Обнаружение Captive portal</string>
-    <string name="captive_portal_detection_summary">Если отключено, подключение к серверам Google не требуется для обнаружения подключения к данным.</string>	
+    <string name="captive_portal_detection_summary">Если отключено, подключение к серверам Google не требуется для обнаружения подключения к данным</string>	
     <string name="captive_portal_server">Сервер Captive portal</string>
     <string name="captive_portal_server_notset">Сервер не установлен</string>
-    <string name="captive_portal_server_explain">Set с. Перезагрузите устройство.</string>
+    <string name="captive_portal_server_explain">Введите сервер, затем перезагрузите устройство</string>
 
     <!-- Headset icon switch -->
     <string name="show_headset_icon_title">Иконка наушников</string>
-    <string name="show_headset_icon_summary">Показывает иконку, когда наушники подключены.</string>
+    <string name="show_headset_icon_summary">Показывает иконку, когда наушники подключены</string>
     
     <!-- hide su icon -->
     <string name="show_su_icon_title">Показывать иконку суперпользователя</string>
@@ -61,17 +61,17 @@
     <string name="status_bar_date_small">Маленький</string>
     <string name="status_bar_date_normal">Нормальный</string>
     <string name="status_bar_date_format_title">Формат даты</string>
-    <string name="status_bar_date_format_custom">Пользовательский формат Javat</string>
-    <string name="status_bar_date_string_edittext_title">Должно быть в формате даты например. ДД/ММ/ГГ</string>
+    <string name="status_bar_date_format_custom">Пользовательский формат Java</string>
+    <string name="status_bar_date_string_edittext_title">Должно быть в формате даты например ДД/ММ/ГГ</string>
     <string name="status_bar_date_string_edittext_summary">Введите строку формата Java</string>
 
     <!-- Screenshot sound -->
-    <string name="screenshot_sound_title">Звук Скриншота</string>
+    <string name="screenshot_sound_title">Звук скриншота</string>
 
     <!-- Hide overflow button -->
     <string name="hide_overflow_button_title">Скрыть кнопку меню</string>
-    <string name="hide_overflow_button_summary">Скрыть кнопку меню "3 точки" в приложениях</string>
-    <string name="hide_overflow_button_toast">Изменения могут появиться после перезапуска приложений</string>
+    <string name="hide_overflow_button_summary">Скрывает наэкранную кнопку меню в приложениях</string>
+    <string name="hide_overflow_button_toast">Изменения могут появиться только после перезапуска приложений</string>
 
     <!-- Disable Camera Shutter Sound -->
     <string name="camera_sounds_title">Звук затвора камеры</string>
