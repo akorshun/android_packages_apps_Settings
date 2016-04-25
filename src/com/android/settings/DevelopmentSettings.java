@@ -2068,6 +2068,7 @@ public class DevelopmentSettings extends SettingsPreferenceFragment
                 // Reset the toggle
                 mAllowSignatureFake.setChecked(false);
             }
+          }
     }
 
     public void onDismiss(DialogInterface dialog) {
@@ -2094,6 +2095,7 @@ public class DevelopmentSettings extends SettingsPreferenceFragment
         } else if (dialog == mAllowSignatureFakeDialog) {
             updateAllowSignatureFakeOption();
             mAllowSignatureFakeDialog = null;
+          }
     }
 
     @Override
