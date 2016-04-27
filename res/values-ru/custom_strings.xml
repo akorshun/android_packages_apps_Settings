@@ -21,7 +21,7 @@
     <string name="vpn_need_password">Требовать пароль</string>
 
     <!-- Network traffic -->
-    <string name="network_traffic_title">Сетевой трафик</string>
+    <string name="network_traffic_title">Монитор трафика</string>
     <string name="show_network_traffic_state">Монитор трафика в статус баре</string>
     <string name="show_network_traffic_unit">Еденицы измерения</string>
     <string name="show_network_traffic_frequency">Интервал обновления</string>
